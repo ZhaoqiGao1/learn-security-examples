@@ -1,1 +1,5 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+
+the key resorese is the token, they coudd copy the  cookie which have the token and use it for the spoofing.
+the token is not sensitive as well.
+when the section id is created the secret is use process.argv[2] where the secret is not set and easily taken. and the httpOnly is true and sameSite true. which same origin can be trusted

@@ -1,0 +1,2 @@
+because the input is not check and cleaning the name could be a jave code. which means the hacker could use a java code and amke it run instead of a string.
+by using a function with replace for all of our string input this probelm could be solved.
