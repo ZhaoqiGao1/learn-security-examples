@@ -1,0 +1,4 @@
+the secure version used session to make sure the action is safe in the api.
+they have to log in the middle where function.
+try and catch could be used to protect the section id from. use cookie and http only adn same site action.
+
