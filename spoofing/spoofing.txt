@@ -1,1 +1,2 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+th secure version uses cookies only from httpOnly True and samesite Ture and it uses a secret to protect the info.
