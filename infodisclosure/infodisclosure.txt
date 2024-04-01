@@ -2,6 +2,8 @@ Briefly explain the vulnerability and why the secure version prevents the vulner
 Which CIA property does tampering violate?
 What additional security mechanisms can you incorporate?
 
-A vulnerability is essentially a security flaw that attackers can exploit, but secure versions counter this by enhancing protections, such as encryption.
-Tampering with data violates the Integrity principle, indicating unauthorized alterations.
-To bolster security further, employing measures like two-factor authentication, conducting regular vulnerability assessments, implementing intrusion detection systems, and maintaining data backups is advisable.
+An InfoDisclosure vulnerability happens when a system mistakenly exposes sensitive information, like user data or internal configurations, to unauthorized users.
+Secure versions tackle this by strictly controlling access to information, encrypting data, and carefully managing error messages to avoid revealing too much.
+This kind of vulnerability mainly breaches the Confidentiality aspect triad, risking private data exposure.
+
+To prevent such leaks, incorporating extra layers like data access controls, encryption both at rest and in transit, regular audits of what information is being logged and how errors are handled, and training for developers on secure coding practices can significantly shore up your data's defense.
