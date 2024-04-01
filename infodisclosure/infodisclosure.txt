@@ -1,3 +1,7 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
 Which CIA property does tampering violate?
 What additional security mechanisms can you incorporate?
+
+A vulnerability is essentially a security flaw that attackers can exploit, but secure versions counter this by enhancing protections, such as encryption.
+Tampering with data violates the Integrity principle, indicating unauthorized alterations.
+To bolster security further, employing measures like two-factor authentication, conducting regular vulnerability assessments, implementing intrusion detection systems, and maintaining data backups is advisable.

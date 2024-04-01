@@ -1,2 +1,4 @@
 - Briefly explain the vulnerability and why the secure version prevents the vulnerability.
 - What additional security mechanisms can you incorporate to prevent such attacks?
+A vulnerability exposes systems to attacks, but secure versions patch these weaknesses, often through improved security measures like encryption, to block unauthorized access.
+To further guard against attacks, adding layers like two-factor authentication, routine security checks, alerts for unusual activity, and regular data backups can significantly enhance protection.
