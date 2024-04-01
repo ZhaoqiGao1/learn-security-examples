@@ -1,2 +1,5 @@
 - Briefly explain the vulnerability and why the secure version prevents the vulnerability.
 - What additional security mechanisms can you incorporate to prevent such attacks?
+A DoS vulnerability lets attackers flood a system with so much traffic it can't handle normal requests anymore.
+Secure versions prevent this by using traffic filtering, rate limiting, and detecting unusual activity patterns to block the overflow.
+To beef up defenses against such attacks, implementing network firewalls, using DDoS mitigation services, setting up redundant network paths, and constantly monitoring for suspicious traffic can be effective strategies.
